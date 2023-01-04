@@ -1,0 +1,31 @@
+{
+  "productList": [
+    {
+      "productName": "IPhone 14 Pro Max",
+      "category": "Electronics",
+      "freshness": "Bran New",
+      "price": 175000,
+      "comment": "Buy a Brand New I Phone 14 Pro Max",
+      "date": "2023-01-03T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Bran New",
+      "price": 500,
+      "comment": "Buy Fresh Apples",
+      "date": "2022-12-31T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Bran New",
+      "price": 5000,
+      "comment": "Buy Fresh Mangoes",
+      "date": "2022-04-30T18:30:00.000Z",
+      "id": 5
+    }
+  ]
+}
